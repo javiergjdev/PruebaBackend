@@ -1,0 +1,32 @@
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\appsettings.json
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\PruebaBackend Javier.exe
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\PruebaBackend Javier.deps.json
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\PruebaBackend Javier.runtimeconfig.json
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\PruebaBackend Javier.dll
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\PruebaBackend Javier.pdb
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\darkn\source\repos\PruebaBackend Javier\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBackend Javier.csproj.AssemblyReference.cache
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBackend Javier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBackend Javier.AssemblyInfoInputs.cache
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBackend Javier.AssemblyInfo.cs
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBackend Javier.csproj.CoreCompileInputs.cache
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBackend Javier.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBackend Javier.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\staticwebassets\msbuild.PruebaBackend Javier.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\staticwebassets\msbuild.build.PruebaBackend Javier.props
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PruebaBackend Javier.props
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PruebaBackend Javier.props
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\scopedcss\bundle\PruebaBackend Javier.styles.css
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBa.41AF5A91.Up2Date
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBackend Javier.dll
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\refint\PruebaBackend Javier.dll
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBackend Javier.pdb
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\PruebaBackend Javier.genruntimeconfig.cache
+C:\Users\darkn\source\repos\PruebaBackend Javier\obj\Debug\net8.0\ref\PruebaBackend Javier.dll
